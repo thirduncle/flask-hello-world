@@ -1,4 +1,4 @@
-# ---- Flask Hello World ---- #
+# ----- Flask Hello World ----- #
 
 # import the Flask class from the flask package
 from flask import Flask
